@@ -4,4 +4,6 @@ deneme2
 master branch yeni ekleme
 3. gün 3. deneme asim branch ilk deneme
 asim brench
+master 2. ekleme
+
 
